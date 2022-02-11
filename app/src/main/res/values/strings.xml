@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Correio Elegante</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo">Logo</string>
+    <string name="come_ar">começar</string>
+    <string name="surpreenda_seu_amor">Surpreenda seu amor</string>
+    <string name="envie_mensagens_e_presentes_incr_veis">Envie mensagens e presentes incríveis</string>
 </resources>
